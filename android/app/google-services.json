@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "642225651910",
+    "project_id": "fortlineapplication",
+    "storage_bucket": "fortlineapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642225651910:android:b009da0fe48368881bd7c7",
+        "android_client_info": {
+          "package_name": "com.example.official_fortline_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642225651910-2rjlmguqbj15ote99i21e0n76evl4nk2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.official_fortline_app",
+            "certificate_hash": "954501096f19b990251a1849b824a0ecf971e3b1"
+          }
+        },
+        {
+          "client_id": "642225651910-s95h3knna44qk0v27h2dbp02i5oodqs5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.official_fortline_app",
+            "certificate_hash": "e2fe645272ef92e24ccf90963416b1cb9178d4b0"
+          }
+        },
+        {
+          "client_id": "642225651910-iq21ebj40751n11agnd7n9iq8vvg7n5k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrOKCu7vE4teuddJnPsOnPp8BRNbMSKss"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642225651910-iq21ebj40751n11agnd7n9iq8vvg7n5k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "642225651910-6qo3k012mfpc4cmdji5ftcpia3sepolh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.officialFortlineApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
